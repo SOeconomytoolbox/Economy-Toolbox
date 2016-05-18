@@ -20,7 +20,7 @@ If you have a negative waiting time, it means that you will have more than requi
 -
 
 - The Adv.PremiumToolbox is a bundle of different tools that will suggest you some comercial operations on the premium interface :
-  - The Equalizer tool simply indicates the operations to equalize the amount of resources between X bases. However, I advise to use this tool only with pairs, since it's the only situation where there is only one way to do the operations.
-  - The SmoothFiller tool indicates the amount of resources you should add in your hangars to have an equalized filling time between the types of resources selectionned.
-  - The SmoothRemoval tool indicates the amount of resources you should withdraw from your hangars to have an equalized filling time between the types of resources selectionned.
+  - The Equalizer tool simply indicates the operations to equalize the amount of resources between X bases. However, I advise you to use this tool with pairs, since it's the only situation where there is just one way to do the operations.
+  - The SmoothFiller tool indicates the amount of resources you should add in your hangars to have an equalized filling time between the types of resources selectionned on one base.
+  - The SmoothRemoval tool indicates the amount of resources you should withdraw from your hangars to have an equalized filling time between the types of resources selectionned on one base.
 You can select the base/type of resources you want to work with by clicking on the name/icon.
