@@ -6,7 +6,7 @@ There is no task automation as the script is only here to compute and suggest ac
 All the data used by the script is taken client-side, there is nothing the script does that a player can't do himself.
 If there is any issue with the execution of a script-added tool, please restart your game. Refreshing your game session is the best way to have fully working tools.
 
-- 
+-
 
 The UpgradeHelper tool is taking a disabled upgrade from an opened building in your game, and compute which resources you could sell/buy to get quicker to the upgrade. It also shows the delay with the suggested trades and w/o.
 The trades are computed with the stock exchange of the market at the time of the use of the tool.
